@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfoPanel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfoPanel_jar</output-path>
+    <root id="archive" name="InfoPanel.jar">
+      <element id="module-output" name="InfoPanel" />
+    </root>
+  </artifact>
+</component>
